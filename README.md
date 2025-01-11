@@ -29,4 +29,4 @@
 
 ### Sobre mim:
 
-Atualmente eu sou estudante tenho 16 anos, e eu pretendo ser um desenvolvedor web full stack, eu estou começando pelo front-end e depois irei aprender sobre o back-end.
+Meu nome é Luiz Phelipe, tenho 16 anos e sou estudante. Minha meta profissional é tornar-me engenheiro de software e desenvolvedor back-end.
